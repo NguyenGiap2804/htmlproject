@@ -1,0 +1,41 @@
+body {
+  font-family: monospace;
+  font-size: 200%;
+}
+
+header {
+  background-color: #072444f4;
+  font-family: cursive;
+}
+
+nav {
+  background-color: #bfb9d6;
+}
+
+main {
+  background-color: #addbc7;
+  font-size: 70%;
+}
+
+footer {
+  background-color: #2ac073;
+  font-size: 48%;
+}
+
+li {
+  display: inline-block;
+  width: 320px;
+  text-align: center;
+  font-family: fantasy;
+}
+
+h1 {
+  text-align: center;
+  font-family: georgia;
+  color: #118b8dff;
+}
+
+p {
+  
+  line-height: 85px;
+}
